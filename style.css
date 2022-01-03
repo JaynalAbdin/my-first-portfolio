@@ -10,10 +10,7 @@ h1{
 section{
     background-color: violet;
     display: flex;
-    margin-bottom: 100px;
-}
-.full-section{
-    background-color: cadetblue;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -28,6 +25,7 @@ section{
     background-image: linear-gradient(orange, tomato);
     border-radius: 10px;
     padding: 5px;
+    margin: 10px;
     color: white;
     font-weight: 700;
 }
