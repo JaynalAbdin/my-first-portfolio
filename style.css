@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color: orangered;
 }
-section{
+.flexible-container{
     background-color: violet;
     display: flex;
     margin-bottom: 150px;
@@ -36,4 +36,19 @@ section{
 .div-2 img{
     width: 80%;
     border-radius: 100%;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border-left: 10px solid;
+    box-shadow: 10px 10px 40px gray;
+}
+footer p{
+    text-align: center;
+    font-weight: 700;
+
 }
