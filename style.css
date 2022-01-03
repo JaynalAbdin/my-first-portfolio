@@ -8,7 +8,12 @@ h1{
     color: orangered;
 }
 section{
+    background-color: violet;
     display: flex;
+    margin-bottom: 100px;
+}
+.full-section{
+    background-color: cadetblue;
 }
 .half-width{
     width: 50%;
@@ -16,6 +21,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    border-radius: 100%;
 }
 .linked-button{
     text-decoration: none;
@@ -24,4 +30,12 @@ section{
     padding: 5px;
     color: white;
     font-weight: 700;
+}
+.div-2{
+    width: 50%;
+    padding-left: 10px;
+}
+.div-2 img{
+    width: 80%;
+    border-radius: 100%;
 }
